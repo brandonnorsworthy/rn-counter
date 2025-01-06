@@ -2,7 +2,10 @@
 
 ## Requirements
 - Simple UI to display a number.
-- Buttons for increment, decrement, and reset.
+- Buttons for 
+   - increment ✅
+   - decrement ✅
+   - reset ✅
 
 ## Things to Use
 - React Native components: View, Text, Button.
