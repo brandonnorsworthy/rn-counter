@@ -25,3 +25,6 @@
    ```bash
     npx expo start
    ```
+
+## Image
+![Counter App](./assets/screenshot.jpg)
